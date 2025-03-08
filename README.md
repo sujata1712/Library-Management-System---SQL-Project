@@ -1,13 +1,19 @@
 # Library-Management-System - SQL-Project
 
+## Overview
+This project is a SQL-based Library Management System that includes database creation, table setup, data insertion, and useful queries for analyzing library operations.
+
 ## Objective
 The objective of this project is to design and implement a relational database for a Library Management System, ensuring efficient storage, retrieval, and management of library-related data.
 
 ## Aim
 The aim of this project is to create a structured database system that maintains information about books, customers, employees, branches, and book transactions (issue and return status). The system provides efficient data handling and useful queries for managing library operations.
 
-## Overview
-This project is a SQL-based Library Management System that includes database creation, table setup, data insertion, and useful queries for analyzing library operations.
+## Technologies Used
+
+- **SQL:** The project is entirely based on SQL and uses relational database concepts.
+- **MySQL:** The database management system used for implementing the queries and managing data.
+- **Workbench / Command Line:** The SQL script can be executed using MySQL Workbench or a command-line interface.
 
 ## Features
 - **Database Creation**: Initializes the `Library` database.
